@@ -6,5 +6,5 @@ end
 while numbers= [9,10,16,25] do
 
   puts square_array(numbers)
-end
+
 end
